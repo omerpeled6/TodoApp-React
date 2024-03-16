@@ -1,1 +1,1 @@
-TodoApp Web -> https://todoapp-react-gwmd.onrender.com
+To run the app -> npm run dev 
